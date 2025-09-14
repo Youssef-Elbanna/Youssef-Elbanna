@@ -16,6 +16,8 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 * 🌍 Interested in **AI applications, web development, automation, and game development**
 * 🛠 Always exploring new technologies and contributing to open-source
 
+📄 [View My CV](https://drive.google.com/file/d/11Ecul4aoPZy2OKb5bRrpYRbrLXnIveIk/view?usp=sharing)  
+
 ---
 
 ## 🔹 Experience Highlights
@@ -46,6 +48,13 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Elbanna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Elbanna&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 ## 📫 Connect with Me
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/youssef-el-banna-75a4721a4/)
