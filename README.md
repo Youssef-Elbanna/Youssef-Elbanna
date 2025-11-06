@@ -31,7 +31,9 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 ---
 
 ## 🔹Latest Projects
-
+* 🌐 **Day Dream** – Responsive Site and Admin Dashboard for Day Dream - Retail Store
+* 🌐 **Waseelti- Site and APP** Mobile Application Using Flutter Tech and responsive site using React
+* 🌐 **MMK-Site** – Responsive Site and Admin Dashboard for MMK Arabian African - Cardboard Factory
 * 🖼 **NewFACES** – AI Picture Tagging System using Python & CNN models.
 * 💬 **Chat App** – Multi-threaded chat application with Java, JDBC, and Oracle SQL.
 * 🤖 **WhatsApp Automation Tool** – Bulk messaging automation using Selenium & WebDriver.
