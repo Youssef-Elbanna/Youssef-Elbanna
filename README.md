@@ -22,11 +22,11 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 ## 🔹 Experience Highlights
 
-* **IT Manager @ MMK African Arabian** – Managing IT infrastructure, cybersecurity, and systems.
-* **Programming Instructor @ Arab Academy for Science, Technology & Maritime Transport** – Teaching Python to young learners.
-* **AI Research Trainee @ Bibliotheca Alexandrina** – Built an AI-powered Picture Tagging System.
-* **React Web Developer Intern @ Digital Egypt Pioneers Initiative** – Developed dynamic React apps.
-* **Curriculum Developer & Instructor @ B-Study & INNOVA STEM** – Created coding curricula and taught Scratch, Python, Unity, and more.
+* **IT Manager @ MMK African Arabian** – Managing IT infrastructure, cybersecurity, and systems  
+* **Programming Instructor @ Arab Academy for Science, Technology & Maritime Transport** – Teaching Python to young learners  
+* **AI Research Trainee @ Bibliotheca Alexandrina** – Built an AI-powered Picture Tagging System  
+* **React Web Developer Intern @ Digital Egypt Pioneers Initiative** – Developed dynamic React apps  
+* **Curriculum Developer & Instructor @ B-Study & INNOVA STEM** – Created coding curricula and taught Scratch, Python, Unity, and more  
 
 ---
 
@@ -55,16 +55,22 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Elbanna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=Youssef-Elbanna&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Youssef-Elbanna&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elbanna&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🧠 Developer Snapshot
+
+- 🔭 Currently working on: **AI & automation projects**  
+- 🌱 Currently learning: **Deep Learning & Cloud Deployment**  
+- 💡 Exploring: **Generative AI, Web3, and Flutter integration**  
+- 🧩 Favorite Stack: **MERN + Python + AI APIs**  
+- ⚡ Fun Fact: I’ve taught programming to over **300+ students** aged 7–19!  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Elbanna&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Elbanna&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -78,7 +84,7 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 ---
 
-⭐️ *“Code is not just about solving problems — it’s about creating opportunities.”*  
+⭐️ *“Code is not just about solving problems — it’s about creating opportunities.”*
 
 ---
 
