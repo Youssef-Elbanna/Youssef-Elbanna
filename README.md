@@ -95,7 +95,7 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Elbanna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Youssef-Elbanna" alt="GitHub Streak" /></a>
+  (https://streak-stats.demolab.com/?user=Youssef-Elbanna)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elbanna&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
