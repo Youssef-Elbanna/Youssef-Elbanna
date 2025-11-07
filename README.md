@@ -1,4 +1,4 @@
-# Hi, I'm Youssef Elbanna Call me YB 👋
+# Hi, I'm Youssef Elbanna — Call me YB 👋
 
 🚀 **Computer Science Student | AI & Data Enthusiast | Full-Stack Developer | Programming Instructor**
 
@@ -16,7 +16,7 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 * 🌍 Interested in **AI applications, web development, automation, and game development**
 * 🛠 Always exploring new technologies and contributing to open-source
 
-📄 [View My CV](https://drive.google.com/file/d/11Ecul4aoPZy2OKb5bRrpYRbrLXnIveIk/view?usp=sharing)  
+📄 [View My CV](https://drive.google.com/file/d/11Ecul4aoPZy2OKb5bRrpYRbrLXnIveIk/view?usp=sharing)
 
 ---
 
@@ -30,33 +30,45 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 ---
 
-## 🔹Latest Projects
-* 🌐 **Day Dream** – Responsive Site and Admin Dashboard for Day Dream - Retail Store
-* 🌐 **Waseelti- Site and APP** Mobile Application Using Flutter Tech and responsive site using React
-* 🌐 **MMK-Site** – Responsive Site and Admin Dashboard for MMK Arabian African - Cardboard Factory
-* 🖼 **NewFACES** – AI Picture Tagging System using Python & CNN models.
-* 💬 **Chat App** – Multi-threaded chat application with Java, JDBC, and Oracle SQL.
-* 🤖 **WhatsApp Automation Tool** – Bulk messaging automation using Selenium & WebDriver.
+## 🔹 Latest Projects
+
+* 🌐 **Day Dream** – Responsive Site and Admin Dashboard for Day Dream - Retail Store  
+* 🌐 **Waseelti (Site + App)** – Flutter Mobile App + React Web Platform  
+* 🌐 **MMK-Site** – Responsive Site and Admin Dashboard for MMK Arabian African  
+* 🖼 **NewFACES** – AI Picture Tagging System using Python & CNN models  
+* 💬 **Chat App** – Multi-threaded chat application with Java, JDBC, and Oracle SQL  
+* 🤖 **WhatsApp Automation Tool** – Bulk messaging automation using Selenium & WebDriver  
 
 ---
 
 ## 🔹 Tech Stack
 
-**Languages:** Java, Python, C++, C#, JavaScript, SQL, R, Lua
-**Web:** React.js, Node.js, Express, MongoDB, REST APIs, Firebase, TailwindCSS
-**Game Dev:** Unity, Roblox Studio, Godot, Scratch, PictoBlox, mBlock
-**Tools:** Git, Postman, Jira, Trello, ClickUp, Figma, Adobe Suite
-**Other:** Networking (Cisco, Fortinet), Automation (n8n, Apps Script), Data Analysis
+**Languages:** Java, Python, C++, C#, JavaScript, SQL, R, Lua  
+**Web:** React.js, Node.js, Express, MongoDB, REST APIs, Firebase, TailwindCSS  
+**Game Dev:** Unity, Roblox Studio, Godot, Scratch, PictoBlox, mBlock  
+**Tools:** Git, Postman, Jira, Trello, ClickUp, Figma, Adobe Suite  
+**Other:** Networking (Cisco, Fortinet), Automation (n8n, Apps Script), Data Analysis  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Elbanna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Elbanna&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Youssef-Elbanna&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elbanna&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Elbanna&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/youssef-el-banna-75a4721a4/)
@@ -64,5 +76,12 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 * 🎨 [Behance](https://www.behance.net/youssefel_banna) | [Dribbble](https://dribbble.com/YoussefElbanna)
 * 📧 Email: [youssefelbanna88@gmail.com](mailto:youssefelbanna88@gmail.com)
 
-⭐️ *“Code is not just about solving problems, it’s about creating opportunities.”*
+---
 
+⭐️ *“Code is not just about solving problems — it’s about creating opportunities.”*  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Youssef-Elbanna&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
