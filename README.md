@@ -114,18 +114,14 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 </p>
 
 ---
+
 📫 Connect with Me
-<p align="center">
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-el-banna-75a4721a4/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-el-banna-75a4721a4/) | [![GitHub Badge](https://img.shields.io/badge/GitHub-Explore_Code-black?style=for-the-badge&logo=github)](https://github.com/Youssef-Elbanna) | [![Email Badge](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:youssefelbanna88@gmail.com)
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Explore_Code-black?style=for-the-badge&logo=github)](https://github.com/Youssef-Elbanna)
+<br>
 
-[![Behance Badge](https://img.shields.io/badge/Behance-Showcase-0534FF?style=for-the-badge&logo=behance)](https://www.behance.net/youssefel_banna)
+[![Behance Badge](https://img.shields.io/badge/Behance-Showcase-0534FF?style=for-the-badge&logo=behance)](https://www.behance.net/youssefel_banna) | [![Dribbble Badge](https://img.shields.io/badge/Dribbble-Design-E74C8C?style=for-the-badge&logo=dribbble)](https://dribbble.com/YoussefElbanna)
 
-[![Dribbble Badge](https://img.shields.io/badge/Dribbble-Design-E74C8C?style=for-the-badge&logo=dribbble)](https://dribbble.com/YoussefElbanna)
-
-[![Email Badge](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:youssefelbanna88@gmail.com)
-</p>
 ---
 
 ⭐️ *“Code is not just about solving problems — it’s about creating opportunities.”*
