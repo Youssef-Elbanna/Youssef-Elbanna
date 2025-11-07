@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Youssef Elbanna — Call me YB <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="YB">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things!;Do+Something+Today+That+Your+Future+Self+Will+Thank+You+For.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="YB">
 </p>
 
 🚀 **Computer Science Student | AI & Data Enthusiast | Full-Stack Developer | Programming Instructor**
