@@ -1,4 +1,5 @@
 # Hi, I'm Youssef Elbanna — Call me YB 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always learning New Things!;もし私がプレイするなら、勝つためにプレイします。)](https://git.io/typing-svg)
 
 🚀 **Computer Science Student | AI & Data Enthusiast | Full-Stack Developer | Programming Instructor**
 
@@ -92,8 +93,6 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Elbanna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Youssef-Elbanna" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Youssef-Elbanna)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elbanna&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
