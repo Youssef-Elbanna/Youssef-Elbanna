@@ -1,6 +1,7 @@
 # Hi, I'm Youssef Elbanna — Call me YB 👋
+```
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always learning New Things!;もし私がプレイするなら、勝つためにプレイします。)](https://git.io/typing-svg)
-
+```
 🚀 **Computer Science Student | AI & Data Enthusiast | Full-Stack Developer | Programming Instructor**
 
 I’m a passionate developer and instructor from Alexandria, Egypt, currently pursuing a **Bachelor’s in Computer Science (Artificial Intelligence & Data Analysis)** at **Alamein International University** (2021–2025).
