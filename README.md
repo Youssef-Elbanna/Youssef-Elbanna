@@ -43,11 +43,48 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 ## 🔹 Tech Stack
 
-**Languages:** Java, Python, C++, C#, JavaScript, SQL, R, Lua  
-**Web:** React.js, Node.js, Express, MongoDB, REST APIs, Firebase, TailwindCSS  
-**Game Dev:** Unity, Roblox Studio, Godot, Scratch, PictoBlox, mBlock  
-**Tools:** Git, Postman, Jira, Trello, ClickUp, Figma, Adobe Suite  
-**Other:** Networking (Cisco, Fortinet), Automation (n8n, Apps Script), Data Analysis  
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**Web:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
+
+**Game Development:**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)
+![mBlock](https://img.shields.io/badge/mBlock-009EE3?style=for-the-badge&logoColor=white)
+![PictoBlox](https://img.shields.io/badge/PictoBlox-512DA8?style=for-the-badge&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+
+**Other:**  
+![Networking](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -55,7 +92,7 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Elbanna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Youssef-Elbanna&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-seven.vercel.app?user=Youssef-Elbanna&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elbanna&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
