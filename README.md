@@ -114,14 +114,19 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 </p>
 
 ---
-
-## 📫 Connect with Me
-
-* 🌐 [LinkedIn](https://www.linkedin.com/in/youssef-el-banna-75a4721a4/)
-* 💻 [GitHub](https://github.com/Youssef-Elbanna)
-* 🎨 [Behance](https://www.behance.net/youssefel_banna) | [Dribbble](https://dribbble.com/YoussefElbanna)
-* 📧 Email: [youssefelbanna88@gmail.com](mailto:youssefelbanna88@gmail.com)
-
+<p align="center">
+📫 Connect with Me
+          👇
+👉 Find Me Everywhere!
+</p>
+* **🌐 LinkedIn:** **Connect** and view my career roadmap!
+    * [https://www.linkedin.com/in/youssef-el-banna-75a4721a4/](https://www.linkedin.com/in/youssef-el-banna-75a4721a4/)
+* **🛠️ GitHub:** Dive into my **latest code commits** and repositories.
+    * [https://github.com/Youssef-Elbanna](https://github.com/Youssef-Elbanna)
+* **✨ Portfolio Showcase:** See the **pixel-perfect designs**!
+    * [Behance](https://www.behance.net/youssefel_banna) | [Dribbble](https://dribbble.com/YoussefElbanna)
+* **✉️ Get in Touch:** For opportunities or questions!
+    * <youssefelbanna88@gmail.com>
 ---
 
 ⭐️ *“Code is not just about solving problems — it’s about creating opportunities.”*
