@@ -19,7 +19,8 @@ With hands-on experience in **AI research, full-stack development, IT infrastruc
 * 🌍 Interested in **AI applications, web development, automation, and game development**
 * 🛠 Always exploring new technologies and contributing to open-source
 
-📄 [View My CV](https://drive.google.com/file/d/11Ecul4aoPZy2OKb5bRrpYRbrLXnIveIk/view?usp=sharing)
+📄 [View My CV](https://drive.google.com/file/d/1IYzW-q_LSacHGxYBX_dcgIX19icnYWU6/view?usp=sharing)
+
 
 ---
 
